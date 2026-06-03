@@ -1,8 +1,8 @@
--   [World Cup](http://world-cup-web.com) --- World Soccer Championship
--   [World Cup Betting](http://worldcupbetting8.com) --- World Championship Bets
--   [World Cup Qualifiers](http://worldcupqualifiers.net) --- International Football Playoffs
--   [World Cup Prediction](http://worldcup-prediction.com) --- Tournament Outcome Forecast
--   [World Cup Highlights](http://worldcuphighlights.net) --- FIFA Match Recaps
--   [World Cup Qualifiers](http://worldcupqualifiers.net) --- Results Today Prediction
--   [World Cup Matches Today](http://worldcupmatchestoday.com) --- International Football Today
--   [Football World Cup Today](http://footballworldcuptoday.com) --- Word Cup Today
+-   [World Cup](https://world-cup-web.com) --- World Soccer Championship
+-   [World Cup Betting](https://worldcupbetting8.com) --- World Championship Bets
+-   [World Cup Qualifiers](https://worldcupqualifiers.net) --- International Football Playoffs
+-   [World Cup Prediction](https://worldcup-prediction.com) --- Tournament Outcome Forecast
+-   [World Cup Highlights](https://worldcuphighlights.net) --- FIFA Match Recaps
+-   [World Cup Qualifiers](https://worldcupqualifiers.net) --- Results Today Prediction
+-   [World Cup Matches Today](https://worldcupmatchestoday.com) --- International Football Today
+-   [Football World Cup Today](https://footballworldcuptoday.com) --- Word Cup Today
